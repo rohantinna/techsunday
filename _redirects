@@ -1,3 +1,4 @@
+/blog/* https://techsundayy.wordpress.com/blog/:splat
 /* https://techsundayy.wordpress.com 302
 /rt https://rohantinna.com 301
 /rohantinna https://rohantinna.com 301
